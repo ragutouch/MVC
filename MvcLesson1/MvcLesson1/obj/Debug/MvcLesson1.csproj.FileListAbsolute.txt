@@ -30,3 +30,6 @@ D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.SqlServer.dl
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.SqlServer.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.EF6.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Web.dll
