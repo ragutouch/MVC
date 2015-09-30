@@ -22,7 +22,6 @@ D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.Razor.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.Deployment.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.Razor.xml
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.csprojResolveAssemblyReference.cache
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.pdb
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.dll

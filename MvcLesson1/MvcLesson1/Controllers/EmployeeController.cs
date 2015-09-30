@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using MvcLesson1.Models;
+using MySql.Data.Entity;
+using MySql.Data.MySqlClient.Authentication;
 
 namespace MvcLesson1.Controllers
 {
@@ -15,6 +17,5 @@ namespace MvcLesson1.Controllers
             Employee employee = employeeContext.Employees.Single(emp => emp.EmployeeId == id);
             return View(employee);
         }
-
     }
 }
