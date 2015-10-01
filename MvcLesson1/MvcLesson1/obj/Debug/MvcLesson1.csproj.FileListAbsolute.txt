@@ -32,3 +32,4 @@ D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.EF6.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Web.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.csprojResolveAssemblyReference.cache
