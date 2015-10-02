@@ -1,4 +1,5 @@
 ﻿@using MvcLesson1.Models;
+
 @model IEnumerable<Department>
 
 @{
@@ -10,7 +11,7 @@
     <ul>
         @foreach (Department dept in @Model)
         {
-            <li>@Html.ActionLink(dept.Name, "Index", "Employee", new { departmentId = dept.deptID }, null)</li>
+            <li>@Html.ActionLink(dept.Name, "Index", "Employee", new { deptId = dept.ID }, null)</li>
         }
     </ul>
 </div>
