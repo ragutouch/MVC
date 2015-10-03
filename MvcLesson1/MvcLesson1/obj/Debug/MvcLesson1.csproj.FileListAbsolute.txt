@@ -1,7 +1,13 @@
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MvcLesson1.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MvcLesson1.pdb
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.SqlServer.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\Microsoft.Web.Infrastructure.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.EF6.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Web.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\Newtonsoft.Json.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Net.Http.Formatting.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.Helpers.dll
@@ -12,6 +18,8 @@ D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.Razor.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.Deployment.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.Razor.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.xml
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.SqlServer.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\Newtonsoft.Json.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Net.Http.Formatting.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.Helpers.xml
@@ -24,11 +32,6 @@ D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.Deployme
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\System.Web.WebPages.Razor.xml
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.dll
 D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.pdb
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.dll
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.SqlServer.dll
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.xml
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\EntityFramework.SqlServer.xml
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.EF6.dll
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.dll
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Data.Entity.dll
-D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\MySql.Web.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\obj\Debug\MvcLesson1.csprojResolveAssemblyReference.cache
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\BusinessLayer.dll
+D:\My Projects\GitHub\MVC\MvcLesson1\MvcLesson1\bin\BusinessLayer.pdb
